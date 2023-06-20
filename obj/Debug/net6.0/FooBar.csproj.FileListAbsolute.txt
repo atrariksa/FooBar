@@ -1,0 +1,15 @@
+/home/derkaiser/Desktop/projects/CIS/FooBar/bin/Debug/net6.0/FooBar
+/home/derkaiser/Desktop/projects/CIS/FooBar/bin/Debug/net6.0/FooBar.deps.json
+/home/derkaiser/Desktop/projects/CIS/FooBar/bin/Debug/net6.0/FooBar.runtimeconfig.json
+/home/derkaiser/Desktop/projects/CIS/FooBar/bin/Debug/net6.0/FooBar.dll
+/home/derkaiser/Desktop/projects/CIS/FooBar/bin/Debug/net6.0/ref/FooBar.dll
+/home/derkaiser/Desktop/projects/CIS/FooBar/bin/Debug/net6.0/FooBar.pdb
+/home/derkaiser/Desktop/projects/CIS/FooBar/obj/Debug/net6.0/FooBar.csproj.AssemblyReference.cache
+/home/derkaiser/Desktop/projects/CIS/FooBar/obj/Debug/net6.0/FooBar.GeneratedMSBuildEditorConfig.editorconfig
+/home/derkaiser/Desktop/projects/CIS/FooBar/obj/Debug/net6.0/FooBar.AssemblyInfoInputs.cache
+/home/derkaiser/Desktop/projects/CIS/FooBar/obj/Debug/net6.0/FooBar.AssemblyInfo.cs
+/home/derkaiser/Desktop/projects/CIS/FooBar/obj/Debug/net6.0/FooBar.csproj.CoreCompileInputs.cache
+/home/derkaiser/Desktop/projects/CIS/FooBar/obj/Debug/net6.0/FooBar.dll
+/home/derkaiser/Desktop/projects/CIS/FooBar/obj/Debug/net6.0/ref/FooBar.dll
+/home/derkaiser/Desktop/projects/CIS/FooBar/obj/Debug/net6.0/FooBar.pdb
+/home/derkaiser/Desktop/projects/CIS/FooBar/obj/Debug/net6.0/FooBar.genruntimeconfig.cache
